@@ -20,7 +20,7 @@ GrowthGear Dashboard is a **React-based data query prototype** for an AI-powered
 ## 🚀 Installation & Setup
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/growthgear-dashboard.git
+git clone https://github.com/aastikdas/Data-Query-Dashboard-Prototype.git
 cd growthgear-dashboard
 ```
 ### Install Dependencies
@@ -58,7 +58,7 @@ npm run dev
 5. Data **visualization appears dynamically** based on the query.
 
 ## 🌐 Live Demo
-🚀 Check out the hosted version here: [Live Demo](https://your-deployment-link.vercel.app)
+🚀 Check out the hosted version here: [Live Demo](https://aastik-das-assignment-data-query-dashboard-prototype.vercel.app/)
 
 ## 🚀 Future Improvements
 - 🔍 **Integrate GPT API for real AI-powered suggestions**
